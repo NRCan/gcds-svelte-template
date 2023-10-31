@@ -8,17 +8,37 @@
 		<div class="mt-300">
 			<gcds-grid columns="repeat(3, 1fr)" gap={200}>
 				<div class="section-1">
-					<p class="font-h2 mb-300">Tarification d'absorption</p>
+					<p class="font-h2 mb-300">Lorem ipsum</p>
 					<p>
-                        Méthode de tarification dans laquelle tous les coûts sont récupérés. Le prix du produit comprend le coût variable de chaque élément majoré d’un montant proportionnel des coûts fixes.					</p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+						incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+						exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+						dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+						Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+						mollit anim id est laborum
+					</p>
 				</div>
 				<div class="section-2">
-					<p class="font-h2 mb-300">Tarification basée sur la marge de contribution.</p>
-                    <p>La tarification basée sur la marge de contribution maximise le profit dérivé d'un produit individuel, sur la base de la différence entre le prix du produit et les coûts variables (la marge de contribution du produit par unité), et sur les hypothèses de chacun concernant la relation entre le prix du produit et le nombre d'unités. qui peut être vendu à ce prix.</p>
-                </div>
+					<p class="font-h2 mb-300">Lorem ipsum</p>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+						incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+						exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+						dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+						Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+						mollit anim id est laborum
+					</p>
+				</div>
 				<div class="section-3">
-					<p class="font-h2 mb-300">Coût plus prix</p>
-                    <p>La tarification au coût majoré est une méthode basée sur les coûts pour fixer les prix des biens et des services. Selon cette approche, le coût direct des matériaux, le coût direct de la main-d'œuvre et les frais généraux d'un produit sont additionnés et ajoutés à un pourcentage de majoration (pour créer une marge bénéficiaire) afin d'en dériver le prix du produit.</p>
+					<p class="font-h2 mb-300">Lorem ipsum</p>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+						incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+						exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+						dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+						Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+						mollit anim id est laborum
+					</p>
 				</div>
 			</gcds-grid>
 		</div>
